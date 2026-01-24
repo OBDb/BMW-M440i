@@ -1,3 +1,7 @@
+references:
+  - "https://en.wikipedia.org/wiki/BMW_4_Series"
+  - "https://en.wikipedia.org/wiki/BMW_4_Series_(G22)"
+
 generations:
   - name: "First Generation (G22/G23/G26)"
     start_year: 2020
